@@ -6,10 +6,10 @@ United Colors of Beneton
 
 Tabular      | Sciente - ECTS
 ------------ | ---------------------
-Applications | POP-dark
+Applications | Qogir-dark
 Cursor       | X-cursor-pro RED
 Icons        | Tela-circle-grey-dark
-Shell        | POP dark
+Shell        | Qogir dark
 Sound        | POP
 
 # UN Splash
