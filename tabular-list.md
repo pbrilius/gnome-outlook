@@ -8,11 +8,11 @@ Tabular      | Sciente - ECTS
 ------------ | ---------------------
 Applications | Qogir-dark
 Cursor       | X-cursor-pro RED
-Icons        | Tela-circle-grey-dark
+Icons        | Tela-circle-grey-dark - Breeze extended
 Shell        | Qogir dark
 Sound        | POP
 
-# UN Splash
+## UN Splash
 
 - AMD
 - Lenovo
