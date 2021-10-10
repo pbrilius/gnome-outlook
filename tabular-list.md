@@ -5,11 +5,11 @@ United Colors of Beneton
 ## Tweaks
 
 Tabular      | Sciente - ECTS
------------- | ---------------------
-Applications | Qogir-dark
-Cursor       | X-cursor-pro RED
-Icons        | Tela-circle-grey-dark - Breeze extended
-Shell        | Qogir dark
+------------ | --------------
+Applications | POP!
+Cursor       | POP!
+Icons        | POP!
+Shell        | POP
 Sound        | POP
 
 ## UN Splash
